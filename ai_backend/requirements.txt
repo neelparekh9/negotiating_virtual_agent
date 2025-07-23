@@ -68,7 +68,6 @@ geographiclib==2.0
 geopandas==0.14.0
 geopy==2.4.1
 geoviews==1.11.0
-gevent==22.10.2
 google-api-core==2.11.1
 google-api-python-client==2.99.0
 google-auth==2.23.0
